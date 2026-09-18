@@ -1,6 +1,6 @@
-<div align="center">
+# Hi there, I'm Aryansh Rajput 👋
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:00D4AA,100:0077B5&height=180&section=header&text=Aryansh%20Rajput&fontSize=48&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=Full%20Stack%20Developer%20%7C%20MERN%20%26%20Java%20Ecosystem&descAlignY=58&descSize=18" alt="header banner" width="100%"/>
+<div align="center">
 
 <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=24&duration=3000&pause=1000&color=00D4AA&center=true&vCenter=true&width=500&lines=Full+Stack+Developer;MERN+Stack+Enthusiast;Clean+Code+Advocate;Problem+Solver" alt="Typing SVG" />
 
@@ -123,40 +123,6 @@ I'm a passionate **Full Stack Developer** from Vadodara, Gujarat, India, dedicat
 
 ---
 
-## 📊 GitHub Statistics
-
-<div align="center">
-  
-![Aryansh's GitHub Stats](https://github-readme-stats.vercel.app/api?username=CodeWithAryansh07&show_icons=true&theme=radical&hide_border=true&count_private=true)
-
-![GitHub Streak](https://streak-stats.demolab.com/?user=CodeWithAryansh07&theme=radical&hide_border=true)
-
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=CodeWithAryansh07&theme=radical&hide_border=true&layout=compact)
-
-</div>
-
----
-
-## 🏆 GitHub Trophies
-
-<div align="center">
-  
-[![trophy](https://github-profile-trophy.vercel.app/?username=CodeWithAryansh07&theme=radical&no-frame=true&column=7)](https://github.com/ryo-ma/github-profile-trophy)
-
-</div>
-
----
-
-## 🔥 Contribution Activity
-
-<div align="center">
-
-![Aryansh's GitHub Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=CodeWithAryansh07&theme=radical&hide_border=true)
-
-</div>
-
----
-
 ## 💡 Core Competencies
 
 ```javascript
@@ -214,7 +180,5 @@ I'm always open to interesting conversations and collaboration opportunities. Wh
 **⭐ From [CodeWithAryansh07](https://github.com/CodeWithAryansh07) | Built with ❤️ and lots of ☕**
 
 ![Profile Views](https://komarev.com/ghpvc/?username=CodeWithAryansh07&color=blueviolet&style=for-the-badge&label=Profile+Views)
-
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0077B5,100:00D4AA&height=100&section=footer" alt="footer banner" width="100%"/>
 
 </div>
