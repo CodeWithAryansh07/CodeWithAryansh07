@@ -1,7 +1,9 @@
-# Hi there, I'm Aryansh Rajput 👋
-
 <div align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=24&duration=3000&pause=1000&color=00D4AA&center=true&vCenter=true&width=435&lines=Full+Stack+Developer;MERN+Stack+Enthusiast;Clean+Code+Advocate;Problem+Solver" alt="Typing SVG" />
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:00D4AA,100:0077B5&height=180&section=header&text=Aryansh%20Rajput&fontSize=48&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=Full%20Stack%20Developer%20%7C%20MERN%20%26%20Java%20Ecosystem&descAlignY=58&descSize=18" alt="header banner" width="100%"/>
+
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=24&duration=3000&pause=1000&color=00D4AA&center=true&vCenter=true&width=500&lines=Full+Stack+Developer;MERN+Stack+Enthusiast;Clean+Code+Advocate;Problem+Solver" alt="Typing SVG" />
+
 </div>
 
 <div align="center">
@@ -30,41 +32,27 @@ I'm a passionate **Full Stack Developer** from Vadodara, Gujarat, India, dedicat
 
 ## 🛠️ Tech Stack
 
-### Programming Languages
-![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
-![ES6+](https://img.shields.io/badge/ES6+-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+**Languages**
 
-### Frontend Development
-![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
-![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
-![Next.js](https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white)
-![Angular](https://img.shields.io/badge/Angular-DD0031?style=for-the-badge&logo=angular&logoColor=white)
-![Tailwind CSS](https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white)
-![Three.js](https://img.shields.io/badge/Three.js-000000?style=for-the-badge&logo=three.js&logoColor=white)
+<img src="https://skillicons.dev/icons?i=java,js" alt="Languages" height="45"/>
 
-### Backend Development
-![Node.js](https://img.shields.io/badge/Node.js-43853D?style=for-the-badge&logo=node.js&logoColor=white)
-![Express.js](https://img.shields.io/badge/Express.js-404D59?style=for-the-badge&logo=express&logoColor=white)
-![Spring Boot](https://img.shields.io/badge/Spring_Boot-6DB33F?style=for-the-badge&logo=spring&logoColor=white)
+**Frontend**
 
-### State Management
-![Zustand](https://img.shields.io/badge/Zustand-443E38?style=for-the-badge&logo=react&logoColor=white)
-![Redux](https://img.shields.io/badge/Redux-593D88?style=for-the-badge&logo=redux&logoColor=white)
+<img src="https://skillicons.dev/icons?i=html,css,react,nextjs,angular,tailwind,threejs" alt="Frontend" height="45"/>
 
-### Databases
-![MongoDB](https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white)
-![MySQL](https://img.shields.io/badge/MySQL-005C84?style=for-the-badge&logo=mysql&logoColor=white)
-![Mongoose](https://img.shields.io/badge/Mongoose-880000?style=for-the-badge&logo=mongoose&logoColor=white)
+**Backend**
 
-### Tools & Technologies
-![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
-![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)
-![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white)
-![VS Code](https://img.shields.io/badge/VS_Code-0078D4?style=for-the-badge&logo=visual%20studio%20code&logoColor=white)
-![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
-![Redis](https://img.shields.io/badge/Redis-DC382D?style=for-the-badge&logo=redis&logoColor=white)
+<img src="https://skillicons.dev/icons?i=nodejs,express,spring" alt="Backend" height="45"/>
+
+**Databases**
+
+<img src="https://skillicons.dev/icons?i=mongodb,mysql,redis" alt="Databases" height="45"/>
+
+**Tools & Platforms**
+
+<img src="https://skillicons.dev/icons?i=git,github,postman,vscode,docker,kubernetes" alt="Tools" height="45"/>
+
+**State Management:** `Zustand` · `Redux`
 
 ---
 
@@ -141,7 +129,7 @@ I'm a passionate **Full Stack Developer** from Vadodara, Gujarat, India, dedicat
   
 ![Aryansh's GitHub Stats](https://github-readme-stats.vercel.app/api?username=CodeWithAryansh07&show_icons=true&theme=radical&hide_border=true&count_private=true)
 
-![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=CodeWithAryansh07&theme=radical&hide_border=true)
+![GitHub Streak](https://streak-stats.demolab.com/?user=CodeWithAryansh07&theme=radical&hide_border=true)
 
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=CodeWithAryansh07&theme=radical&hide_border=true&layout=compact)
 
@@ -226,5 +214,7 @@ I'm always open to interesting conversations and collaboration opportunities. Wh
 **⭐ From [CodeWithAryansh07](https://github.com/CodeWithAryansh07) | Built with ❤️ and lots of ☕**
 
 ![Profile Views](https://komarev.com/ghpvc/?username=CodeWithAryansh07&color=blueviolet&style=for-the-badge&label=Profile+Views)
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0077B5,100:00D4AA&height=100&section=footer" alt="footer banner" width="100%"/>
 
 </div>
