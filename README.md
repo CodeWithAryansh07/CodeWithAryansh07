@@ -8,8 +8,9 @@
   
 [![Portfolio](https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=vercel&logoColor=white)](https://aryanshrajput.vercel.app)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/aryansh-rajput-063800248)
-[![Email](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:codewitharyansh07@gmail.com)
+[![Email](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:rajputaryansh07@gmail.com)
 [![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/CodeWithAryansh07)
+[![LeetCode](https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=black)](https://leetcode.com/CodeWithAryansh07)
 
 </div>
 
@@ -19,8 +20,8 @@
 
 I'm a passionate **Full Stack Developer** from Vadodara, Gujarat, India, dedicated to creating scalable applications with clean, maintainable code. I thrive on learning cutting-edge technologies and building meaningful projects that make a real impact.
 
-- 🌱 Currently pursuing **B.Tech in Computer Science** at Parul University (CGPA: 8.60)
-- 💼 Working as a **Full Stack Developer** at Xenotech Solutions
+- 🌱 **B.Tech in Computer Science** from Parul University (CGPA: 8.60)
+- 💼 Working as a **Full Stack Java Developer** at Anayasmi Infotech
 - 🎯 Passionate about **clean code**, **scalable applications**, and **up-to-date technology**
 - 💡 Love building projects that solve real-world problems
 - ⚡ Fun fact: I've helped build systems serving **10,000+ users** daily!
@@ -39,6 +40,7 @@ I'm a passionate **Full Stack Developer** from Vadodara, Gujarat, India, dedicat
 ![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
 ![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
 ![Next.js](https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white)
+![Angular](https://img.shields.io/badge/Angular-DD0031?style=for-the-badge&logo=angular&logoColor=white)
 ![Tailwind CSS](https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white)
 ![Three.js](https://img.shields.io/badge/Three.js-000000?style=for-the-badge&logo=three.js&logoColor=white)
 
@@ -68,13 +70,19 @@ I'm a passionate **Full Stack Developer** from Vadodara, Gujarat, India, dedicat
 
 ## 💼 Professional Experience
 
+### 🏢 Full Stack Java Developer | Anayasmi Infotech
+**Vadodara, India**
+
+- 🔧 Developing and maintaining scalable web applications using **Java Spring Boot**, **Node.js**, and **Angular**
+- 🏗️ Architecting robust backend services and RESTful APIs for high performance and seamless integration
+- 🎨 Collaborating on front-end development with Angular to build responsive, user-centric interfaces
+
 ### 🏢 Full Stack Developer | Xenotech Solutions
-**Mar 2024 – Present**
+**Vadodara, India**
 
 - 🚀 Contributed to **5+ full-stack projects** using MERN & Next.js, supporting **10,000+ users**
 - ⚡ Built official company website with **30% faster load times**
 - 📚 Helped develop Learning Management System with **40% improved modularity** and user flow
-- 🔧 Specialized in scalable architecture and performance optimization
 
 ---
 
@@ -93,39 +101,37 @@ I'm a passionate **Full Stack Developer** from Vadodara, Gujarat, India, dedicat
 ## 🚀 Featured Projects
 
 ### 🔥 [CodeCraft](https://codecraft-demo.vercel.app) - Multi-Language Code Editor
-*Jan 2025*
-- 🌟 **5,000+ compiles per day** with **<200ms latency**
-- 💻 Supports multiple programming languages
-- ⚡ Real-time code execution and compilation
+- 🌟 Handling **5,000+ compiles/day** with **<200ms latency**
+- 💾 Integrated **Convex DB** and **Clerk**, enabling **99.9% uptime** and sub-second sync
+- 💻 Supports multiple programming languages with real-time execution
 - 🎨 Modern UI with syntax highlighting
 
 ### 🌐 [Xenotech Company Website](https://xenotech-demo.vercel.app)
-*May 2025*
 - 🎯 Built with **React.js**, **Three.js**, and **Tailwind CSS**
 - ⚡ Achieved **<2 second load time**
-- 🎨 Interactive 3D elements and animations
-- 📱 Fully responsive design
+- 📱 Optimized responsive layouts for 10+ devices with brand-consistent UI
 
 ### 🎬 [MovieApp](https://movieapp-demo.vercel.app) - Movie Discovery Platform
-*Jan 2025*
 - 🎥 Integrated with **TMDb API**
 - 📊 Serving **10,000+ requests per day**
 - 🔍 Advanced search and filtering capabilities
-- 📱 Mobile-first responsive design
 
 ### 💼 [Job Portal](https://jobportal-demo.vercel.app) - MERN Stack Application
-*Dec 2024 – Jan 2025*
-- 👥 Supports **15,000+ users**
-- 📊 Real-time job application tracking
-- 🔐 Secure authentication system
-- 💬 Real-time messaging between employers and candidates
+- 👥 Supports **15,000+ users** with filters and real-time application tracking
+- 🔐 Implemented **Clerk** authentication and **Cloudinary** for **40% faster** media uploads
 
 ### 🚗 LuxeDrive - Vehicle Rental System
-*Minor Project*
 - 🚙 Real-time vehicle availability tracking
 - 📅 Advanced booking management system
 - 💳 Secure payment integration
-- 📱 Mobile-responsive interface
+
+---
+
+## 🏆 Achievements
+
+- **LeetCode**: Solved **337+ problems**, peak rating **1613**
+- **CodeChef**: Solved **111+ problems**, peak rating **1207**
+- **CodeForces**: Solved **10+ problems**, current rating **404**
 
 ---
 
@@ -171,7 +177,7 @@ const aryansh = {
   askMeAbout: ["web dev", "tech", "app dev", "system design"],
   technologies: {
     frontEnd: {
-      js: ["React", "Next.js"],
+      js: ["React", "Next.js", "Angular"],
       css: ["Tailwind CSS", "Bootstrap"],
       graphics: ["Three.js"]
     },
@@ -196,7 +202,7 @@ const aryansh = {
 - 🔭 Currently working on **advanced React patterns** and **microservices architecture**
 - 🌱 Learning **TypeScript**, **Docker**, and **Kubernetes**
 - 👯 Looking to collaborate on **open source projects** and **innovative web applications**
-- 💬 Ask me about **React.js**, **Node.js**, **MongoDB**, and **full-stack development**
+- 💬 Ask me about **React.js**, **Angular**, **Node.js**, **MongoDB**, and **full-stack development**
 - ⚡ Fun fact: I love turning complex problems into simple, elegant solutions!
 
 ---
@@ -209,7 +215,7 @@ I'm always open to interesting conversations and collaboration opportunities. Wh
 
 [![Portfolio](https://img.shields.io/badge/Portfolio-Visit%20Now-00D4AA?style=for-the-badge&logo=vercel&logoColor=white)](https://aryanshrajput.vercel.app)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/aryansh-rajput-063800248)
-[![Email](https://img.shields.io/badge/Email-Contact-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:codewitharyansh07@gmail.com)
+[![Email](https://img.shields.io/badge/Email-Contact-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:rajputaryansh07@gmail.com)
 
 </div>
 
